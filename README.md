@@ -1,0 +1,2 @@
+# MineTypeContent
+youandme
